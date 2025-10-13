@@ -1,0 +1,5 @@
+# RStudio files to ignore
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
