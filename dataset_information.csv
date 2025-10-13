@@ -1,0 +1,54 @@
+Abbreviation,GEO Accession,Species,Cell Line,Control(s),Treatment(s),Platform
+GSE301555,GSE301555,Homo sapiens,MCF7,siControl,"siCHRNA5, siP53, and siP53 + siCHRNA5","Illumina NovaSeq 6000
+
+"
+GSE47042,GSE47042,Homo sapiens,MCF7,unstimulated (NS) contro,"5μM Nutlin-3a
+
+","Illumina HiSeq 2000 
+
+"
+GSE173364,GSE173364,Homo sapiens,SW480,"TP53 knockout and shp53
+","TP53 KO + R175H overexpression, TP53 KO + R273H overexpression, shp53 + R175H overexpression, and shp53 + R273H overexpression
+
+","Illumina NextSeq 500 
+
+"
+GSE68248,GSE68248,Homo sapiens,MDA-MB-231 (R280K),siCTRL,"siTP53
+
+","Illumina HiSeq 2000 
+
+"
+GSE139546,GSE139546,Homo sapiens,HCT116,CTR siRNA and CTR siRNA+nutlin,"p53 siRNA, iASPP siRNA, p53+iASPP siRNA, p53 siRNA+nutlin, iASPP siRNA+nutlin, and p53+iASPP siRNA+nutlin
+
+","Illumina MiSeq 
+"
+GSE83635,GSE83635,Homo sapiens,U2OS,"si-CTR and CRISPR CTR
+
+","si-SET and CRISPR p53 knockout
+
+","Illumina HiSeq 2000 
+
+"
+GSE84877,GSE84877,Homo sapiens,HUVEC,"scrambled
+
+","si-p53, si-PKM2, and si-PKM2 + si-p53
+
+","Illumina NextSeq 500 
+
+"
+GSE74493,GSE74493,Homo sapiens,MCF10A,siControl,"siLATS1/2, sip53, and siLATS1/2 + sip53
+
+","Illumina HiSeq 2000 
+
+"
+GSE124508,GSE124508,Homo sapiens,TTC642,DMSO, Idasanutlin (1 uM),"Illumina NextSeq 500
+
+"
+GSE59841,GSE59841,Homo sapiens,GIST430,DMSO,"nutlin-3 2.5μM and nutlin-3 10μM
+
+","Illumina HiSeq 2000
+
+"
+GSE86219,GSE86219,Homo sapiens,MCF7,DMSO,Nutlin,Ion Torrent Proton
+GSE248670,GSE248670,Homo sapiens,MCF7,DMSO and GD3S overexpression + DMSO,Nutlin3A and GD3S overexpression + Nutlin3A,Illumina NovaSeq 6000
+GSE89110,GSE89110,Homo sapiens,HCT116,p53 NULL shCTRL and p53 WT shCTRL,p53 NULL + shPFKFB4 and p53 WT + shPFKFB4,Illumina NextSeq 500
