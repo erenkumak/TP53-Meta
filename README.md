@@ -35,3 +35,9 @@ docker ps
 docker logs -f tp53_meta
 # To Stop
 docker stop tp53_meta
+
+# Citation
+
+If you use this resource, please also cite:
+
+Keskus, A.G., Kumak, E., Vural-Ozdeniz, M. et al. TP53-META, a meta-analysis tool for comparative transcriptomics of TP53 dependency: examples from target silencing and liver fibrosis. BMC Bioinformatics (2026). https://doi.org/10.1186/s12859-026-06465-5 
